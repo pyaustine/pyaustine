@@ -1,11 +1,5 @@
-[![MasterHead](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2F5e3babfce4609dcd669a8f2a6d37b47c85486729942c57c5afbfc715f0b5dff7%2F68747470733a2f2f7777772e6469676974616c736f6c7574696f6e73657276696365732e636f6d2f696d672f73657276696365732f776562253230646576656c6f706d656e742e676966&imgrefurl=https%3A%2F%2Fgithub.com%2FSubhojeetDas1107&tbnid=d1C79WuL-DpeFM&vet=12ahUKEwiswoCY-7z9AhWEticCHcD4CIgQMygGegUIARD4AQ..i&docid=sSDbRPpnF8CGwM&w=1920&h=590&q=banner%20gif%20image%20github&client=ubuntu&ved=2ahUKEwiswoCY-7z9AhWEticCHcD4CIgQMygGegUIARD4AQ)]
-
 <h1 align="center">Hi 👋, I'm Austine</h1>
 <h3 align="center">A passionate software engineer from Nairobi, Kenya</h3>
-
-<img align="right"> src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia4.giphy.com%2Fmedia%2FqgQUggAC3Pfv687qPC%2Fgiphy.gif&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogramming&tbnid=ITaGGdoGDaxxhM&vet=12ahUKEwjR1uHM-bz9AhWmricCHYEEBWcQMygAegUIARCTAg..i&docid=DjMcDTxMfmhRGM&w=480&h=360&q=animated%20coding%20gif&client=ubuntu&ved=2ahUKEwjR1uHM-bz9AhWmricCHYEEBWcQMygAegUIARCTAg" alt="Coding">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sphinx-austin&label=Profile%20views&color=0e75b6&style=flat" alt="sphinx-austin" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hostine_" target="blank"><img src="https://img.shields.io/twitter/follow/hostine_?logo=twitter&style=for-the-badge" alt="hostine_" /></a> </p>
 
