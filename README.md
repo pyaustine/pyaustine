@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/hostine_" target="blank"><img src="https://img.shields.io/twitter/follow/hostine_?logo=twitter&style=for-the-badge" alt="hostine_" /></a> </p>
 
-- 🔭 I’m currently working on **RESTful API's**
+- 🔭 I’m currently working on **RESTful API's, and Deep learning models**
 
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://sphinx-austin.github.io/portfolio/](https://sphinx-austin.github.io/portfolio/)
 
-- 💬 Ask me about **Django, FastAPI, MEARN**
+- 💬 Ask me about **Deep Learning models, ML, Django, Flask, FastAPI**
 
 - 📫 How to reach me **ayahaustine@gmail.com**
 
