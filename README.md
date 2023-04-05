@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, I'm Austine</h1>
 <h3 align="center">A passionate software engineer from Nairobi, Kenya</h3>
 
+- I write scripts, APIs, and ML/AI models that make life easier ( and human beings 'lazier')
 
 - 🔭 I’m currently working on **RESTful API's, and Deep Learning models**
 
