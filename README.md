@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **RESTful API's, and Deep Learning models**
 
-- 🌱 I’m currently learning **Kubernetes**
+- 🌱 I’m currently learning **Kubernetes** and **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://sphinx-austin.github.io/portfolio/](https://sphinx-austin.github.io/portfolio/)
 
