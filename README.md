@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sphinx-austin.github.io/portfolio/](https://sphinx-austin.github.io/portfolio/)
 
-- 💬 Ask me about **APIs, Deep Learning models, ML, Django, Flask, FastAPI, Andriod development**
+- 💬 Ask me about **APIs, ML, Andriod development & General Backend Development**
 
 - 📫 How to reach me **ayahaustine@gmail.com**
 
