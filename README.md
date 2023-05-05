@@ -3,7 +3,7 @@
 
 - I write scripts, APIs, ML/AI, and LLM models that make life easier (and humans 'lazier')
 
-- 🔭 I’m currently working on **RESTful API's, and Deep Learning models**
+- 🔭 I’m currently working on **RESTful API's, and Deep Learning Models**
 
 - 🌱 I’m currently learning **Kubernetes** and **TypeScript**
 
