@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Austine</h1>
-<h3 align="center">A passionate software engineer from Nairobi, Kenya</h3>
+<h3 align="center">A passionate software developer from Nairobi, Kenya</h3>
 
 - I write scripts, APIs, ML/AI, and LLM models that make life easier (and humans 'lazier')
 
