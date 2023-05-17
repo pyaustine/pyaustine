@@ -13,4 +13,4 @@
 
 - 📄 Know about my experiences and projects at [https://sphinx-austin.github.io/portfolio/](https://sphinx-austin.github.io/portfolio/)
 
-- See my work below. Feel free to colaborate:
+- See my work below. Feel free to collaborate:
