@@ -13,6 +13,6 @@
 
 - 📄 Know about my experiences and projects at [https://sphinx-austin.github.io/portfolio/](https://sphinx-austin.github.io/portfolio/)
 
-- Hit me up for hire, consultancy and job opportunities. 
+- Hit me up for collaboration, consultancy, and job opportunities.
 
 - See my work below. Feel free to fork & collaborate:
