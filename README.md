@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **APIs, ML, Andriod development & General Backend Development**
 
-- 📫 How to reach me **ayahaustine@gmail.com**
+- 📫 How to reach me: **ayahaustine@gmail.com**
 
 - 📄 Know about my experiences and projects at [https://sphinx-austin.github.io/portfolio/](https://sphinx-austin.github.io/portfolio/)
 
