@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, Austine here</h1>
+<h1 align="center">Hello 👋, I'm Austine </h1>
 <h3 align="center">A passionate Software/ML developer from Nairobi, Kenya</h3>
 
 - 👨‍ I write scripts, APIs, ML/AI, and LLM models that make life easier (and humans 'lazier')
@@ -14,5 +14,3 @@
 - 📄 Know about my experiences and projects at [https://sphinx-austin.github.io/portfolio/](https://sphinx-austin.github.io/portfolio/)
 
 - Hit me up for collaboration, consultancy, and job opportunities.
-
-- See my work below. Feel free to fork & collaborate:
