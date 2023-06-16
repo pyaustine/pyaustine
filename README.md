@@ -11,6 +11,6 @@
 
 - 📫 How to reach me: **ayahaustine@gmail.com**
 
-- 📄 Know about my experiences and projects at [https://sphinx-austin.github.io/portfolio/](https://sphinx-austin.github.io/portfolio/)
+- 📄 Know about my experiences and projects at [https://portfolio-austine.vercel.app](https://portfolio-austine.vercel.app)
 
 - Hit me up for collaboration, consultancy, and job opportunities.
