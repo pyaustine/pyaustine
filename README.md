@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Kubernetes** and **TypeScript**
 
-- 💬 Ask me about **APIs, ML, Andriod development & General Backend Development**
+- 💬 Ask me about **APIs, ML, Andriod development & General Backend Development using Python and Java**
 
 - 📫 How to reach me: **ayahaustine@gmail.com**
 
