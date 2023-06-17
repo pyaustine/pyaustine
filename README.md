@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Mobile development, RESTful APIs, and Large Language Models**
 
-- 🌱 I’m currently learning **Kubernetes** and **TypeScript**
+- 🌱 I’m currently learning **Kubernetes** and **Go**
 
 - 💬 Ask me about **APIs, ML, Andriod development & General Backend Development using Python and Java**
 
