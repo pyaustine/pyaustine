@@ -4,12 +4,18 @@
 - ```
   I write scripts, APIs, ML/AI, and LLM models that make life easier (and humans 'lazier')
   ```
-- 🔭 I’m currently working on **Mobile development, RESTful APIs, and Large Language Models**
-
-- 🌱 I’m currently learning **Kubernetes** and **Go**
-
-- 💬 Ask me about **APIs, ML, Andriod development & General Backend Development using Python and Java**
-
+- ```
+  I’m currently working on **Mobile development, RESTful APIs, and Large Language Models**
+  ```
+  
+- ```
+  I’m currently learning **Kubernetes** and **Go**
+  ```
+  
+- ```
+  Ask me about **APIs, ML, Andriod development & General Backend Development using Python and Java**
+  ```
+  
 - 📫 How to reach me: **ayahaustine@gmail.com**
 
 - 📄 Know about my experiences and projects at [https://portfolio-austine.vercel.app](https://portfolio-austine.vercel.app)
