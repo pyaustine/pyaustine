@@ -16,8 +16,10 @@
   Ask me about **APIs, ML, Andriod development & General Backend Development using Python and Java**
   ```
   
-- 📫 How to reach me: **ayahaustine@gmail.com**
-
+- ```
+  How to reach me: **ayahaustine@gmail.com**
+  ```
+  
 - 📄 Know about my experiences and projects at [https://portfolio-austine.vercel.app](https://portfolio-austine.vercel.app)
 
 - Hit me up for collaboration, consultancy, and job opportunities.
