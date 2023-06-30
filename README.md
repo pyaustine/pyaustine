@@ -22,7 +22,3 @@
   ```
   
 - 📄 Know about my experiences and projects at [https://portfolio-austine.vercel.app](https://portfolio-austine.vercel.app)
-
-- ```
-  Hit me up for collaboration, consultancy, and job opportunities
-  ```
