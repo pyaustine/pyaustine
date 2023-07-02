@@ -18,7 +18,7 @@
   ```
   
 - ```
-  How to reach me: ayahaustine@gmail.com
+  Reach through: ayahaustine@gmail.com
   ```
   
 - 📄 Know about my experiences and projects at [https://portfolio-austine.vercel.app](https://portfolio-austine.vercel.app)
