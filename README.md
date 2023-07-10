@@ -14,7 +14,7 @@
   ```
   
 - ```
-  Ask me about **APIs, ML, Andriod development & General Backend Development using Python and Java**
+  Ask me about APIs, ML, Andriod development & General Backend Development using Python and Java**
   ```
   
 - ```
