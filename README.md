@@ -10,7 +10,7 @@
   ```
   
 - ```
-  I’m currently learning Kubernetes and Golang
+  I’m currently learning Kubernetes and Go
   ```
   
 - ```
