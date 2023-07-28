@@ -6,7 +6,7 @@
   ```
   
 - ```
-  I’m currently working on Backend development, ETLs and Large Language Models.
+  I’m currently working on Backend development, ETLs and Large Language Models
   ```
   
 - ```
