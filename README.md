@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software/ML craftsman from Nairobi, Kenya</h3>
 
 - ```
-  I write scripts, APIs, ML/AI, and LLM models that make life easier (and humans 'lazier')
+  I write scripts, APIs, ML/AI, and LLM models that make life easier (and humans 'lazier').
   ```
   
 - ```
