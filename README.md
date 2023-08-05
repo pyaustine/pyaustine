@@ -14,7 +14,7 @@
   ```
   
 - ```
-  Ask me about APIs, ML, Cross-platfrom app development & Backend Development using Python, Java , and Flutter.
+  Ask me about APIs, ML, Cross-platfrom app development & Backend Development using Python, Java , and Dart.
   ```
   
 - ```
