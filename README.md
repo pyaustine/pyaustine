@@ -4,6 +4,10 @@
 - ```
   I write scripts, APIs, ML/AI, and LLM models that make life easier (and humans 'lazier').
   ```
+
+- ```
+  I develop cross-platform applications i,e Android, IOS, Desktop & Web applications.
+```
   
 - ```
   I’m currently working on Backend development, ETLs and Large Language Models.
