@@ -6,7 +6,7 @@
   ```
   
 - ```
-  I develop cross-platform applications i.e Android, IOS, Desktop & Web applications
+  I develop cross-platform applications i.e Android, IOS, Desktop & Web applications.
   ```
   
 - ```
