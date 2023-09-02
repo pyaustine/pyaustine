@@ -10,14 +10,6 @@
   ```
   
 - ```
-  I’m currently working on Backend development, ETLs and Large Language Models
-  ```
-  
-- ```
-  I’m currently learning Kubernetes and Go.
-  ```
-  
-- ```
   Ask me about APIs, ML, Cross-platfrom Apps & Backend Development using Python, Java , and Dart.
   ```
   
