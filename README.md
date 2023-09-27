@@ -1,5 +1,8 @@
 <h1 align="center">Hello 👋, I'm Austine </h1>
 <h3 align="center">A passionate Software/ML craftsman from Nairobi, Kenya</h3>
+- ```
+  I design scalable microservice/macroservice systems
+  ```
 
 - ```
   I write scripts, APIs, ML/AI, and LLM models that make life easier (and humans 'lazier')
