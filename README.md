@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software/ML craftsman from Nairobi, Kenya</h3>
 
 - ```
-  I design scalable microservice/macroservice systems.
+  I design scalable microservice/macroservice systems
   ```
 
 - ```
