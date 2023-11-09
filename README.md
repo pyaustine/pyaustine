@@ -9,11 +9,11 @@
   ```
   
 - ```
-  I develop cross-platform applications i.e Android, IOS, Desktop & Web applications.
+  I develop cross-platform applications.
   ```
   
 - ```
-  Ask me about APIs, ML, Cross-platfrom Apps & Backend Development using Python, Go , and Dart
+  Ask me about ML & Backend Development using Python, Go , and Dart
   ```
   
 - ```
