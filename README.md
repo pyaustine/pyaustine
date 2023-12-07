@@ -5,7 +5,7 @@
   ```
 
 - ```
-  I write scripts, APIs, ML/AI, and LLM models.
+  I write scripts, APIs, ML/AI, and LLM models
   ```
   
 - ```
