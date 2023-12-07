@@ -9,7 +9,7 @@
   ```
   
 - ```
-  I develop cross-platform applications.
+  I develop cross-platform applications
   ```
   
 - ```
