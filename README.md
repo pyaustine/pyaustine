@@ -1,7 +1,7 @@
 
 
 - ```
-  Scalable microservice/macroservice systems.
+  Scalable microservice/macroservice (Backend) systems.
   ```
 
 - ```
@@ -9,11 +9,7 @@
   ```
   
 - ```
-  I develop cross-platform applications.
-  ```
-  
-- ```
-  Ask me about ML & Backend Development using Python, Go.
+  Data engineering with SQL, Docker, dbt, Airflow, Spark, Kafka & Airbyte.
   ```
   
 - ```
