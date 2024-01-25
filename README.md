@@ -13,7 +13,7 @@
   ```
   
 - ```
-  Ask me about ML & Backend Development using Python, Go , and Dart
+  Ask me about ML & Backend Development using Python, Go.
   ```
   
 - ```
