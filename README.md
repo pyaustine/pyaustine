@@ -9,7 +9,7 @@
   ```
   
 - ```
-  Data engineering with SQL, Docker, dbt, Airflow, Spark, Kafka & Airbyte.
+  Data engineering with Scala, SQL, Docker, dbt, Airflow, Spark, Kafka & Airbyte.
   ```
   
 - ```
