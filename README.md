@@ -1,4 +1,4 @@
-- ```sh
+- ```
   FOSS hobbyist
   ```
 
